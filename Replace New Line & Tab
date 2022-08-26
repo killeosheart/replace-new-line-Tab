@@ -1,0 +1,1 @@
+df.replace(to_replace=[r"\\t|\\n|\\r", "\t|\n|\r"], value=["",""], regex=True, inplace=<INPLACE>)
